@@ -1,16 +1,17 @@
 class Datetime{
-
-
-    static void main(String[] args){
-        Integer i=10
-        Float f=15
-        Float z=f+i
-        println(i)
-        println(f)
-        println(z)
+    def x=100;
+    static void   greet(){
+        println("Hello ")
 
     }
 
+
+    static void main(String[] args){
+        def x=10;
+        greet()
+        print(x)
+
+    }
 }
 
 
