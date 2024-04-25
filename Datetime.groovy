@@ -1,7 +1,7 @@
 class Datetime{
     def x=100;
     static void   greet(){
-        println("Hello ")
+        println("Hello world !!!")
 
     }
 
